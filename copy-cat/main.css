@@ -1,0 +1,64 @@
+nav {
+    display: flex;
+    border: 1px solid lightgray;
+}
+
+button {
+    border-radius: 23px;
+    padding: 10px;
+    margin: 9px;
+}
+.login-btn{
+    border: none;
+}
+.green-btn {
+    border-radius: 30px;
+    background-color: green;
+    color: white;
+}
+.navbar-brand {
+    color: black;
+    font-size: 30px;
+}
+.search-bar {
+    border-radius: 15px;
+    background-color: #f2f3f4;
+}
+.dropdown-toggle {
+    display: inline;
+    color: black;
+    text-decoration: none;
+    padding: 5px;
+    margin: 9px;
+}
+.dropdown-toggle-2 {
+    color: rgb(126, 121, 121);
+    text-decoration: none;
+    padding: 5px;
+    margin: 9px;
+    font-size: 17px;
+}
+#drop-btn{
+    float: right;
+}
+.form-check {
+    position: relative;
+    right: -650px;
+    top: 12px;
+}
+.nav-item {
+    width: 200px;
+    size: 500px;
+}
+.btn2 {
+    display: inline-block;
+    border-radius: none;
+}
+img {
+    width: 350px;
+    height: 200px;
+    margin: 5px;
+}
+.navBarSearchForm {
+    width: 430px;
+}
